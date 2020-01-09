@@ -54,7 +54,7 @@ $ksdk->echoJavascript();
 
 <header class="container-fluid p-0">
     <div class="blue-line text-center">
-        <?= T('US - 60% OFF ONLY TODAY!'); ?>
+       60% Off & Free Shipping to the UK
     </div>
     <div class="d-flex justify-content-between main-part">
         <div class="logo">

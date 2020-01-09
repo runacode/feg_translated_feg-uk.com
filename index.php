@@ -55,7 +55,7 @@ include_once(dirname(__FILE__) . '/locale/languages.php');
 
 <header class="container-fluid p-0">
     <div class="blue-line text-center">
-        <?= T('US - 60% OFF ONLY TODAY!'); ?>
+       Free Shipping
     </div>
     <div class="d-flex justify-content-between main-part">
         <div class="logo">
